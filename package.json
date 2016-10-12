@@ -1,0 +1,11 @@
+{
+  "name": "yarn_app",
+  "version": "1.0.0",
+  "description": "First Yarn App",
+  "main": "index.js",
+  "author": "Brian Kim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
